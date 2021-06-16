@@ -11,5 +11,5 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.UiNDEVELOPER:onespin:1.1'
+	        implementation 'com.github.uindeveloper:onespin:1.1'
 	}
